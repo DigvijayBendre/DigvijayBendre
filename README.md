@@ -48,19 +48,12 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=digvijaybendre&" alt="digvijaybendre" /></p>
 
-# ⭐ LEETCODE
-<div align="center">
 
-[![My LeetCode Activity](https://activity-graph.herokuapp.com/graph?username=DigvijayBendre&theme=xcode)](https://leetcode.com/DigvijayBendre/) 
-<br>
-
-</div>
-<br>
 
 # ⭐ GeeksForGeeks Profile 
 <div align="center">
 
-[![My GfG stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=digvijaybendre)](https://auth.geeksforgeeks.org/user/digvijay7000/) 
+[![My GfG stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=digvijay7000)](https://auth.geeksforgeeks.org/user/digvijay7000/)
 <br>
 
 </div>

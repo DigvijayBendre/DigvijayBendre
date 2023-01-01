@@ -26,14 +26,14 @@
 <a href="bendredigvijay@gmail.com">
   <img align="left" width="42px" src="https://i.gifer.com/Anm7.gif"  />
 </a>
-<a href="https://www.hackerrank.com/God_Slayer" target="_blank">
-  <img align="left" width="42px" src="https://i.ibb.co/6WCLSb2/Hacker-Rank.png"  />
+<a href="https://www.hackerrank.com/bendredigvijay" target="_blank">
+  <img align="left" width="42px" src="https://cdn.dribbble.com/users/1771471/screenshots/14108349/untitled-3.gif"  />
 </a>
-<a href="https://auth.geeksforgeeks.org/user/ankurrohonsarkar/profile" target="_blank">
+<a href="https://auth.geeksforgeeks.org/user/digvijay7000/" target="_blank">
   <img align="left" width="42px" src="https://media.geeksforgeeks.org/wp-content/uploads/20210608021423/Output.gif"  />
 </a>
-<a href="https://www.codechef.com/users/ankur02sarkar" target="_blank">
-  <img align="left" width="42px" src="https://i.ibb.co/9Yr67f9/CodeChef.png"  />
+<a href="https://leetcode.com/DigvijayBendre/" target="_blank">
+  <img align="left" width="42px" src="https://img9.doubanio.com/lpic/s29484334.jpg"  />
 </a>
 </div>
 <br/>

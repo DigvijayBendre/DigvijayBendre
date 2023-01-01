@@ -20,17 +20,17 @@
 
 # 🌐 My Socials:
 <div align="center">
-<a href="https://www.linkedin.com/in/ankur-sarkar" target="_blank">
-  <img align="left" width="42px" src="https://i.ibb.co/drvwWtB/Linkedin.png"  />
+<a href="https://www.linkedin.com/in/digvijaybendre7000/" target="_blank">
+  <img align="left" width="42px" src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif"  />
 </a>
-<a href="mailto:sarkarrohonankur@gmail.com">
-  <img align="left" width="42px" src="https://i.ibb.co/bPCr08L/Email.png"  />
+<a href="bendredigvijay@gmail.com">
+  <img align="left" width="42px" src="https://i.gifer.com/Anm7.gif"  />
 </a>
 <a href="https://www.hackerrank.com/God_Slayer" target="_blank">
   <img align="left" width="42px" src="https://i.ibb.co/6WCLSb2/Hacker-Rank.png"  />
 </a>
 <a href="https://auth.geeksforgeeks.org/user/ankurrohonsarkar/profile" target="_blank">
-  <img align="left" width="42px" src="gfg.png"  />
+  <img align="left" width="42px" src="https://media.geeksforgeeks.org/wp-content/uploads/20210608021423/Output.gif"  />
 </a>
 <a href="https://www.codechef.com/users/ankur02sarkar" target="_blank">
   <img align="left" width="42px" src="https://i.ibb.co/9Yr67f9/CodeChef.png"  />

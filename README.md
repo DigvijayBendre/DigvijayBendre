@@ -24,10 +24,10 @@
   <img align="left" width="42px" src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif"  />
 </a>
 <a href="bendredigvijay@gmail.com">
-  <img align="left" width="42px" src="https://i.gifer.com/Anm7.gif"  />
+  <img align="left" width="42px" src="https://d1muf25xaso8hp.cloudfront.net/https://s3.amazonaws.com/appforest_uf/f1626355319613x484158047569452200/Gmail_Small_Business.gif?w=&h=&auto=compress&dpr=1&fit=max"  />
 </a>
 <a href="https://www.hackerrank.com/bendredigvijay" target="_blank">
-  <img align="left" width="42px" src="https://cdn.dribbble.com/users/1771471/screenshots/14108349/untitled-3.gif"  />
+  <img align="left" width="42px" src="https://is2-ssl.mzstatic.com/image/thumb/Music128/v4/e3/05/1b/e3051b03-d132-df20-c4be-980616c45b02/source/1200x630bb.jpg"  />
 </a>
 <a href="https://auth.geeksforgeeks.org/user/digvijay7000/" target="_blank">
   <img align="left" width="42px" src="https://media.geeksforgeeks.org/wp-content/uploads/20210608021423/Output.gif"  />

@@ -50,10 +50,10 @@
 
 
 
-# ⭐ GeeksForGeeks Profile 
+# ⭐ GeeksForGeeks / Leetcode 
 <div align="center">
 
 [![My GfG stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=digvijay7000)](https://auth.geeksforgeeks.org/user/digvijay7000/)
 <br>
-
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=DigvijayBendre&theme=dark)](https://leetcode.com/DigvijayBendre/)<br>
 </div>

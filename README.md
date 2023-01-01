@@ -48,7 +48,14 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=digvijaybendre&" alt="digvijaybendre" /></p>
 
-# ⭐ Stats 
+# ⭐ Stars
+<div align="center">
+
+[![My LeetCode Activity](https://activity-graph.herokuapp.com/graph?username=DigvijayBendre&theme=xcode)](https://leetcode.com/DigvijayBendre/) 
+<br>
+
+</div>
+<!-- 
 
 # ⭐ GeeksForGeeks Profile 
 <div align="center">

@@ -7,12 +7,16 @@
 
 
 <p align="left"> <a href="https://twitter.com/digvijaybendre" target="blank"><img src="https://img.shields.io/twitter/follow/digvijaybendre?logo=twitter&style=for-the-badge" alt="digvijaybendre" /></a> </p>
-- 🌱 I’m currently learning **Data Science, MEARN**
 
-- 👨‍💻 All of my projects are available at [https://digvijaybendre.github.io/myportfolio/](https://digvijaybendre.github.io/myportfolio/)
 
-- 💬 Ask me about **Python, HTML5, CSS3**
+- 🌱 Learning Never Stops 🚀
 
+- 💬 Ask me about **Web Development, Java, DBMS, MySQL**
+
+- 👨‍💻 Check out my personal portfolio : **<a href="https://digvijay7.netlify.app/" target="_blank">Portfolio</a>**
+
+- 😄 Pronouns: He/His
+- 
 - CCRIPT **bendredigvijay@gmail.com**
 
 

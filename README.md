@@ -16,8 +16,7 @@
 - 👨‍💻 Check out my personal portfolio : **<a href="https://digvijay7.netlify.app/" target="_blank">Portfolio</a>**
 
 - 😄 Pronouns: He/His
-- 
-- CCRIPT **bendredigvijay@gmail.com**
+- Gmail:  **bendredigvijay@gmail.com**
 
 
 # 🌐 My Socials:

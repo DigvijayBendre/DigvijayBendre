@@ -25,18 +25,19 @@
 
 
 # 🌐 My Technical Coading Profiles:
-<a href="https://auth.geeksforgeeks.org/user/digvijay7000/" target="_blank">
+<a GeekForGeeks href="https://auth.geeksforgeeks.org/user/digvijay7000/" target="_blank">
   <img align="left" width="42px" src="https://media.geeksforgeeks.org/wp-content/uploads/20210608021423/Output.gif"  />
 </a>
   
-<a href="https://leetcode.com/DigvijayBendre/" target="_blank">
+<a LeetCode href="https://leetcode.com/DigvijayBendre/" target="_blank">
   <img align="left" width="42px" src="https://img9.doubanio.com/lpic/s29484334.jpg"  />
 </a>
   
   
-<a href="https://www.hackerrank.com/bendredigvijay" target="_blank">
+<a HackerRank href="https://www.hackerrank.com/bendredigvijay" target="_blank">
   <img align="left" width="42px" src="https://is2-ssl.mzstatic.com/image/thumb/Music128/v4/e3/05/1b/e3051b03-d132-df20-c4be-980616c45b02/source/1200x630bb.jpg"  />
 </a>
+  
 </div>
 <br/>
 <br/>

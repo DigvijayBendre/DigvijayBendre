@@ -1,5 +1,8 @@
 ![MasterHead](https://www.digitaladlectio.com/wp-content/uploads/2020/04/New-PNC-Animated-Banners.gif)
-<h1 align="center">👋 Hi, I'm <a href="https://www.linkedin.com/in/jigar-sable/" target="_blank"> Digvijay Bendre </a></h1>
+<h1 align="center"><div align="center">
+<a href="https://www.linkedin.com/in/digvijaybendre7000/" target="_blank">
+  <img align="left" width="42px" src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif"  />
+</a> Hi, I'm <a href="https://www.linkedin.com/in/jigar-sable/" target="_blank"> Digvijay Bendre </a></h1>
 <h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=Full+Stack+Developer+%3A)" /> </h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
 

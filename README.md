@@ -96,6 +96,8 @@
 
 # ⭐GitHub /  GeeksForGeeks / Leetcode  
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=digvijaybendre" alt="digvijaybendre" /></a> </p>
+
+
 <div align="center">
 
 [![My GfG stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=digvijay7000)](https://auth.geeksforgeeks.org/user/digvijay7000/)

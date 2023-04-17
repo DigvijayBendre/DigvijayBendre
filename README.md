@@ -1,8 +1,10 @@
 ![MasterHead](https://www.digitaladlectio.com/wp-content/uploads/2020/04/New-PNC-Animated-Banners.gif)
 <h1 align="center"><div align="center">
 <a href="https://www.linkedin.com/in/digvijaybendre7000/" target="_blank">
-  <img align="left" width="42px" src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif"  />
-</a> Hi, I'm <a href="https://www.linkedin.com/in/jigar-sable/" target="_blank"> Digvijay Bendre </a></h1>
+  <img align="left" width="42px" src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif"  /> 
+</a> Hi, I'm <a href="https://www.linkedin.com/in/digvijaybendre7000/" target="_blank"> Digvijay Bendre </a></h1> <a href="bendredigvijay@gmail.com">
+  <img align="left" width="42px" src="https://d1muf25xaso8hp.cloudfront.net/https://s3.amazonaws.com/appforest_uf/f1626355319613x484158047569452200/Gmail_Small_Business.gif?w=&h=&auto=compress&dpr=1&fit=max"  />
+</a>
 <h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=Full+Stack+Developer+%3A)" /> </h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
 
@@ -22,22 +24,18 @@
 - Gmail:  **bendredigvijay@gmail.com**
 
 
-# 🌐 My Socials:
-<div align="center">
-<a href="https://www.linkedin.com/in/digvijaybendre7000/" target="_blank">
-  <img align="left" width="42px" src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif"  />
-</a>
-<a href="bendredigvijay@gmail.com">
-  <img align="left" width="42px" src="https://d1muf25xaso8hp.cloudfront.net/https://s3.amazonaws.com/appforest_uf/f1626355319613x484158047569452200/Gmail_Small_Business.gif?w=&h=&auto=compress&dpr=1&fit=max"  />
-</a>
-<a href="https://www.hackerrank.com/bendredigvijay" target="_blank">
-  <img align="left" width="42px" src="https://is2-ssl.mzstatic.com/image/thumb/Music128/v4/e3/05/1b/e3051b03-d132-df20-c4be-980616c45b02/source/1200x630bb.jpg"  />
-</a>
+# 🌐 My Technical Coading Profiles:
+
+
 <a href="https://auth.geeksforgeeks.org/user/digvijay7000/" target="_blank">
   <img align="left" width="42px" src="https://media.geeksforgeeks.org/wp-content/uploads/20210608021423/Output.gif"  />
 </a>
 <a href="https://leetcode.com/DigvijayBendre/" target="_blank">
   <img align="left" width="42px" src="https://img9.doubanio.com/lpic/s29484334.jpg"  />
+</a>
+  </a>
+<a href="https://www.hackerrank.com/bendredigvijay" target="_blank">
+  <img align="left" width="42px" src="https://is2-ssl.mzstatic.com/image/thumb/Music128/v4/e3/05/1b/e3051b03-d132-df20-c4be-980616c45b02/source/1200x630bb.jpg"  />
 </a>
 </div>
 <br/>

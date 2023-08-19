@@ -76,7 +76,7 @@
 
 
 
-# 🎇 Contribute Strike:
+# 🎇 Contribute Strike
 
 <div align="center">
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=digvijaybendre&theme=dark" alt="digvijaybendre" /></p>

@@ -1,10 +1,14 @@
 ![MasterHead](https://www.digitaladlectio.com/wp-content/uploads/2020/04/New-PNC-Animated-Banners.gif)
-<h1 align="center"><div align="center">
-  <a href="https://www.linkedin.com/in/digvijaybendre7000/" target="_blank">
-    <img align="left" width="42px" src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" alt="LinkedIn" /> 
-  </a>
-  Hi, I'm <a href="https://www.linkedin.com/in/digvijaybendre7000/" target="_blank">Digvijay Bendre</a>
+
+<h1 align="center">
+  <div align="center">
+    <a href="https://www.linkedin.com/in/digvijaybendre7000/" target="_blank">
+      <img align="left" width="42px" src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" alt="LinkedIn" /> 
+    </a>
+    Hi, I'm <a href="https://www.linkedin.com/in/digvijaybendre7000/" target="_blank" style="font-family: 'Arial', sans-serif; font-size: 32px;">Digvijay Bendre</a>
+  </div>
 </h1>
+
 
 <a href="mailto:bendredigvijay@gmail.com">
   <img align="left" width="42px" src="https://d1muf25xaso8hp.cloudfront.net/https://s3.amazonaws.com/appforest_uf/f1626355319613x484158047569452200/Gmail_Small_Business.gif?w=&h=&auto=compress&dpr=1&fit=max" alt="Email" />

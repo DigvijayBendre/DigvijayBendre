@@ -17,7 +17,7 @@
 <h3 align="center">Full Stack Developer 🚀</h3>
 
 <p align="right">
-  <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
+  <img align="right" alt="Coding" width="400"  src="https://github-readme-stats.vercel.app/api/top-langs?username=jigar-sable&show_icons=true&theme=dark&locale=en&layout=compact" alt="jigar-sable" />
 </p>
 
 <p align="left">
@@ -82,14 +82,12 @@
 
 # 🎇 Contribute Strike
 
-<div align="center">
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=digvijaybendre&theme=dark" alt="digvijaybendre" /></p>
-</div>
+<div align="left">
+  <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=digvijaybendre&theme=dark" alt="digvijaybendre" /><br><img src="https://github-readme-stats.vercel.app/api/top-langs?username=jigar-sable&show_icons=true&theme=dark&locale=en&layout=compact" alt="jigar-sable" />
 
 
-
-<div align="center">
+<div align="left">
 
 [![My GfG stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=digvijay7000)](https://auth.geeksforgeeks.org/user/digvijay7000/)
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=DigvijayBendre&theme=dark)](https://leetcode.com/DigvijayBendre/)<br>
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=DigvijayBendre&theme=dark)](https://leetcode.com/DigvijayBendre/)
 </div>
